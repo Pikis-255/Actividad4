@@ -1,0 +1,11 @@
+Este programa fue obtenido de la librería freegames.
+El programa cannon.py, es un programa que emula tiros parabólicos, con los
+cuales tendremos que apuntar a bolas azules y evitar que lleguen y toquen el
+otro lado de la pantalla. El juego originalmente se detiene al tocar pared.
+Las modificaciones fueron las siguientes:
+- Se aumentó la velocidad de las bolas azules y los proyectiles en las líneas
+  25,26 y en la línea 68
+- El juego se volvió infinito, borrando las líneas 69-71 y permitiendo que
+  este continúe pese a que choquen las bolas con la pared.
+Las modificaciones fueron realizadas por Claudia Paola Garcia Nocetti
+[A01424238] y Andrick J.P. Landa [A01424206]
