@@ -22,8 +22,8 @@ def tap(x, y):
     if not inside(ball):
         ball.x = -199
         ball.y = -199
-        speed.x = (x + 200) / 25
-        speed.y = (y + 200) / 25
+        speed.x = (x + 200) / 10
+        speed.y = (y + 200) / 10
 
 def inside(xy):
     "Return True if xy within screen."
@@ -65,13 +65,22 @@ def move():
             targets.append(target)
 
     draw()
+<<<<<<< HEAD
         
     ontimer(move, 50)
+=======
+
+    for target in targets:
+        if not inside(target):
+            return
+
+    ontimer(move, 25)
+
+>>>>>>> 7a17b8789bcb9adb3ab3a52098b4db917a64a3c0
 setup(420, 420, 370, 0)
 hideturtle()
 up()
 tracer(False)
 onscreenclick(tap)
 move()
-start()
 done()
