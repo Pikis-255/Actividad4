@@ -1,0 +1,36 @@
+commit 4af4aa44455f3b40ae3cbbd4853f5fefa653d6f7
+Author: anndrick <anndrick.la@gmail.com>
+Date:   Fri May 7 11:42:36 2021 -0500
+
+    doc
+
+commit 4ed887ff03cd423f89141efb151fff985759c1d7
+Merge: 5b4ea69 7a17b87
+Author: anndrick <anndrick.la@gmail.com>
+Date:   Fri May 7 11:35:46 2021 -0500
+
+    infinito
+
+commit 5b4ea69466b4664c1bcd824a3af278087acef8d9
+Author: anndrick <anndrick.la@gmail.com>
+Date:   Fri May 7 11:33:01 2021 -0500
+
+    infinito
+
+commit 7a17b8789bcb9adb3ab3a52098b4db917a64a3c0
+Author: Pikis-255 <g.nocetti3556@gmail.com>
+Date:   Fri May 7 10:41:24 2021 -0500
+
+    Velocidad
+
+commit f3a0c96482c8c5d2c40596fb6f6a78c37f7f2973
+Author: anndrick <anndrick.la@gmail.com>
+Date:   Fri May 7 10:17:22 2021 -0500
+
+    cannonn
+
+commit c3413b27f5591d3538aa1035db89aadddcef3824
+Author: anndrick <anndrick.la@gmail.com>
+Date:   Fri May 7 10:07:47 2021 -0500
+
+    cannon
